@@ -1,3 +1,6 @@
+# pythonchallenge 7
+# oxygen.html
+
 from PIL import Image
 
 image = Image.open('ingredient/oxygen.png')
